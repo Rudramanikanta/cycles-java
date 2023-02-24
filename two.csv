@@ -1,0 +1,43 @@
+
+Team1,Team2
+Round 1,head,tail
+Round 2,tail,head
+Round 3,head,tail
+Round 4,head,tail
+Round 5,tail,head
+Round 6,tail,head
+Round 7,head,tail
+Round 8,head,tail
+Round 9,head,tail
+Round 10,head,tail
+Team1
+=========cycle 1
+
+Team1,Team2
+Round 1,tail,head
+Round 2,head,tail
+Round 3,tail,head
+Round 4,tail,head
+Round 5,tail,head
+Round 6,tail,head
+Round 7,head,tail
+Round 8,tail,head
+Round 9,tail,head
+Round 10,tail,head
+Team2
+=========cycle 2
+
+Team1,Team2
+Round 1,head,tail
+Round 2,head,tail
+Round 3,tail,head
+Round 4,head,tail
+Round 5,tail,head
+Round 6,head,tail
+Round 7,head,tail
+Round 8,head,tail
+Round 9,tail,head
+Round 10,head,tail
+Team1
+=========cycle 3
+Team1 winner
